@@ -10,7 +10,8 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
-    "weather-icons": "git+https://github.com/erikflowers/weather-icons.git"
+    "weather-icons": "git+https://github.com/erikflowers/weather-icons.git",
+    "yarn": "^1.21.1"
   },
   "scripts": {
     "start": "react-scripts start",
